@@ -1,0 +1,32 @@
+.login-register-form #useremail{
+    margin-bottom:11px;
+    
+    }  
+
+
+
+
+    .dish_radio{
+
+        height: 10px;
+        width: 15px;
+    
+    }  
+    .product-price-wrapper .qty{
+    
+        width: 41%;
+        height: 20px; 
+        border:2px solid black;
+    
+    
+    }  
+    .product-price-wrapper .fa-cart-plus {
+    
+      cursor:pointer;
+    
+    
+    }
+
+   
+    
+    
